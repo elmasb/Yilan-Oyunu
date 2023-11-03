@@ -1,0 +1,25 @@
+char *ft_strtrim(char const *s1, char const *set){
+char *str;
+str =s1;
+char *str2;
+str2= set;
+int i=0;
+int length=0;
+if(str[i]){
+    length++;
+}
+i=0;
+while(i <=length){
+    if(str[i]== str2[i]){
+        
+    }
+}
+
+
+
+
+
+
+
+
+}
